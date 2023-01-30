@@ -1,4 +1,4 @@
-# fuguang.math
+# Data Visulization
 short project to show the population density and population map
 
 In this project I will use a dataset from "World Population Prospect 2022" located [United Nation](https://population.un.org/wpp/Download/Standard/Population/). 
