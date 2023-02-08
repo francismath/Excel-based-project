@@ -5,7 +5,9 @@ In this project I will use a dataset from Kaggle located [here](https://www.kagg
 
 There are two works here. 
 
-1. Analyze the sales in a variety of platform where the video game was released. The pivot table shows sales in regions including North America, Europe, Japan and the rest of the world.  
+1. Sales pivot table
+
+    Analyze the sales in a variety of platform where the video game was released. The pivot table shows sales in regions including North America, Europe, Japan and the rest of the world.  
 
     The basic tools used here are Pivot Tables and conditional formatting in Excel
  
