@@ -1,21 +1,18 @@
 # Data Visulization using Excel
-short project to show the population density and population map
+short project to show a list of video games with sales
 
-In this project I will use a dataset from "World Population Prospect 2022" located [United Nation](https://population.un.org/wpp/Download/Standard/Population/). 
+In this project I will use a dataset from Kaggle located [here](https://www.kaggle.com/datasets/gregorut/videogamesales). 
 
 There are two works here. 
 
-1. Population density map in Canada using excel
-    Analyze the locations people intend to live in Canada The data visualization shows the sparsest and densest area 
-    across the country. 
+1. The platform with sales across different regions
+    Analyze the sales in a variety of platform where the video game was released. The pivot table shows sales in regions including North America, Europe, Japan and the rest of the world. 
 
-    The basic tools used here
-    1. Pivot Tables and conditional formatting in Excel
-    2.  Power Map, a 3D visualization tool for geographic data
+    The basic tools used here are Pivot Tables and conditional formatting in Excel
  
-2. Population dashboard using excel
-    A population dashboard is built using excel. I have leveraged the following modules in building population 
-    dashboard which analyzes age structure across the countries. 
+2. Sales dashboard using excel
+    A sales dashboard is built using excel. I have leveraged the following modules in building sales 
+    visualization which analyzes age structure across the regions. 
     1. Data Cleaning
     2. Pivot Table
     3. Pivot Chart
