@@ -14,7 +14,7 @@ There are two works here.
 2. Sales dashboard using excel
     A sales dashboard is built using excel. I have leveraged the following modules in building sales 
     visualization which analyzes the popularity of the video games across the regions. 
-    1. Data Cleaning
+    1. Data Cleaning, including Remove Duplicates, Text to Column, Missing data
     2. Pivot Table
     3. Pivot Chart
     4. Vlookup
