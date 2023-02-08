@@ -1,12 +1,11 @@
 # Data Visulization using Excel
-short project to show a list of video games with sales
+Short project to show a list of video games with sales
 
 In this project I will use a dataset from Kaggle located [here](https://www.kaggle.com/datasets/gregorut/videogamesales). 
 
 There are two works here. 
 
-1. The platform with sales across different regions
-    Analyze the sales in a variety of platform where the video game was released. The pivot table shows sales in regions including North America, Europe, Japan and the rest of the world. 
+1. Analyze the sales in a variety of platform where the video game was released. The pivot table shows sales in regions including North America, Europe, Japan and the rest of the world.  
 
     The basic tools used here are Pivot Tables and conditional formatting in Excel
  
