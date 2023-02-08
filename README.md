@@ -12,7 +12,7 @@ There are two works here.
  
 2. Sales dashboard using excel
     A sales dashboard is built using excel. I have leveraged the following modules in building sales 
-    visualization which analyzes age structure across the regions. 
+    visualization which analyzes the popularity of the video games across the regions. 
     1. Data Cleaning
     2. Pivot Table
     3. Pivot Chart
