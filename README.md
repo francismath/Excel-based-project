@@ -12,6 +12,7 @@ There are two works here.
     The basic tools used here are Pivot Tables and conditional formatting in Excel
  
 2. Sales dashboard using excel
+
     A sales dashboard is built using excel. I have leveraged the following modules in building sales 
     visualization which analyzes the popularity of the video games across the regions. 
     1. Data Cleaning, including Remove Duplicates, Text to Column, Trim
